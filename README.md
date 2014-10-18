@@ -32,9 +32,3 @@ Available for this language:
 ### CONTRIBUTE!
 
 If you'd like to commit to this project please submit a pull request and I will do my best to merge appropriately.
-
-### CONTACT
-
-* Visit My Webfolio : http://fauzie.my.id/
-* Read all development ongoing at my blog : http://rizal.fauzie.my.id/
-* Consider to contact me via Email : rizal@fauzie.my.id
